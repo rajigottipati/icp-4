@@ -1,1 +1,1 @@
-name:RAJYALAKSHMI GOTTIPATI student id: 700745186 video link:https://drive.google.com/file/d/1wj3AlrwGBEFjT_raGOPMuXe7QhwqQDPh/view?usp=drive_link Document- Neural Network & Deep learninG - ICP-4.docx Video File-NNDL-ASSIGNMENT4.mp4 Code- nn_assignment4.py
+name:RAJYALAKSHMI GOTTIPATI student id: 700745186 video link:https://drive.google.com/file/d/1wj3AlrwGBEFjT_raGOPMuXe7QhwqQDPh/view?usp=drive_link Document- Neural Network & Deep learning - ICP-4.docx Video File-NNDL-ASSIGNMENT4.mp4 Code- nn_assignment4.py
